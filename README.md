@@ -1,7 +1,3 @@
-<!-- 顶部动态横幅 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Data%20Analyst%20%7C%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88&fontSize=35&fontAlignY=35&desc=Turning%20Data%20into%20Actionable%20Business%20Insights&descSize=18&descAlignY=55" />
-</p>
 
 <h1 align="center">Hi, I'm 怕提买 👋</h1>
 
@@ -17,14 +13,21 @@
 ---
 
 ## 🎯 About Me
-
-- 📊 **求职方向**：数据分析师 / 运营数据分析 / 产品数据分析 / 经营分析
+兼具**代码实现能力**与**业务分析视角**的数据分析师，擅长将分析结论落地为可执行的业务建议，而不仅仅是输出数字。
 - 🎓 **教育背景**：上海第二工业大学，数据科学与大数据技术，本科（2022-2026）
 - ⚡ **Engineering + Analytics**：兼具工程实现能力（Django / Redis / Spark）与数据分析思维，擅长将分析结果落地为自动化工具
 - 🤖 **AI 辅助分析**：善用大模型辅助 SQL 拆解、指标梳理、异常假设与报告结构化，同时强调数据口径校验与业务逻辑验证
 
-📧 **Email**: 3251705404@qq.com
+📧 **Email**: 17601270241@163.com
 
+## 🛠️ 技术栈 (Tech Stack)
+
+- **数据分析 (Analytics Core):** SQL（日常取数主力）| Python（Pandas · NumPy · Matplotlib · Seaborn）| Excel（透视表 · VLOOKUP · SUMIFS）
+- **机器学习 (Machine Learning):** Scikit-learn | XGBoost | 随机森林 | 逻辑回归（课程+项目实战）
+- **数据库 (Databases):** MySQL（复杂查询+表设计）| Redis（分布式锁 · 异步队列）
+- **大数据生态 (Big Data):** Spark | PySpark | Kafka | Flink（理解级，竞赛项目用过）
+- **工程底子 (Engineering):** Django | Celery | Linux | Docker | Git（懂数据从哪来、能落地工具）
+- **可视化 (Visualization):** Matplotlib | Seaborn | Jupyter Notebook | Tableau（学习中）
 
 
 ## 💼 Featured Experience
@@ -40,15 +43,6 @@
 
 ---
 
-
-## 🏅 Achievements & Certifications
-
-| 类型 | 成就 |
-|---|---|
-| 🏆 竞赛 | 第 16 届上海市大学生计算机应用能力大赛选拔赛 **三等奖** |
-| 🏆 竞赛 | 第六届全国大学生 AI 科技知识竞赛 **一等奖** |
-| 🏆 竞赛 | 第二届"天翼云杯"上海市大学生云计算应用大赛 **半决赛入围** |
-| 📜 证书 | 人工智能模型运用证书,大学英语四级（CET-4）, 国家普通话二级甲等,计算机二级|
 
 
 <p align="center">
