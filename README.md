@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm 怕提买 👋</h1>
+<h1 align="center">Hi, I'm Patimai 👋</h1>
 
 
 <p align="center">
